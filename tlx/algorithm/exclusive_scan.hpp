@@ -3,7 +3,7 @@
  *
  * Part of tlx - http://panthema.net/tlx
  *
- * Copyright (C) 2018 Michael Axtmann <michael.axtmann@kit.edu>
+ * Copyright (C) 2018 Michael Axtmann <michael.axtmann@gmail.com>
  *
  * All rights reserved. Published under the Boost Software License, Version 1.0
  ******************************************************************************/
